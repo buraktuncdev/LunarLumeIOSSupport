@@ -44,9 +44,8 @@ Having problems? Please:
 3. Create a new issue if your problem isn't listed
 
 For private inquiries:
-- Email: support@lunarlume.app
-- Twitter: [@LunarLumeApp](https://twitter.com/LunarLumeApp)
-
+- Email: appsfios@gmail.com
+  
 ## Privacy Policy
 
 LunarLume respects your privacy. We only collect location data (with permission) to provide accurate moon phase calculations. No personal data is stored or shared with third parties.
@@ -64,4 +63,8 @@ LunarLume respects your privacy. We only collect location data (with permission)
 ## Acknowledgments
 
 - Moon phase calculations based on astronomical algorithms
-- R
+- RapidAPI for moon phase data
+- SwiftUI and RealityKit for UI/AR implementation
+
+
+Made with ❤️ by [Burak Tunc](https://github.com/buraktuncdev)
